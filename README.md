@@ -1,7 +1,7 @@
-# Klantenbeheer App (NAW Database)
+# Klantenbeheer App
 
 ##  Over dit project
-Dit is een webapplicatie waarmee je klanten (NAW-gegevens) kunt beheren.
+Dit is een webapplicatie waarmee je klanten kunt beheren.
 Gebruikers kunnen klanten toevoegen, bekijken, aanpassen en verwijderen.
 
 ##  Functionaliteiten
@@ -9,10 +9,10 @@ Gebruikers kunnen klanten toevoegen, bekijken, aanpassen en verwijderen.
 - Read (klanten bekijken)
 - Update (klant aanpassen)
 - Delete (klant verwijderen)
-- 
+  
 ## Gebruikte softwares
 - PHP
-- MySQL (PDO)
+- MySQL
 - Bootstrap 5
 - HTML/CSS
 - Git & GitHub
@@ -32,11 +32,11 @@ Gebruikers kunnen klanten toevoegen, bekijken, aanpassen en verwijderen.
 2. Zet de map in htdocs (XAMPP)
 3. Start Apache en MySQL in XAMPP
 4. Maak database aan 
-5. Maak tabel `klanten`
+5. Maak tabel klanten
 6. Open in browser:
    http://localhost/klanten_app
 
-## Beveiliging (AVG)
+## Beveiliging
 - Er wordt gebruik gemaakt van prepared statements
 - Alleen NAW-gegevens worden opgeslagen
 - Geen gevoelige persoonsgegevens
