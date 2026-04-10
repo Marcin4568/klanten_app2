@@ -1,10 +1,10 @@
 # Klantenbeheer App (NAW Database)
 
-## 📌 Over dit project
+##  Over dit project
 Dit is een webapplicatie waarmee je klanten (NAW-gegevens) kunt beheren.
 Gebruikers kunnen klanten toevoegen, bekijken, aanpassen en verwijderen.
 
-## ⚙️ Functionaliteiten
+##  Functionaliteiten
 - Create (klant toevoegen)
 - Read (klanten bekijken)
 - Update (klant aanpassen)
